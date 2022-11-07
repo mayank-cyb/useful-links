@@ -1,0 +1,67 @@
+https://support.microsoft.com/en-gb/windows/inside-this-update-93c5c27c-f96e-43c2-a08e-5812d92f220d?OCID=WUSettings#windowsupdate=22621
+
+https://css-tricks.com/solving-sticky-hover-states-with-media-hover-hover/
+
+https://css-tricks.com/a-complete-guide-to-links-and-buttons/#jump-link
+
+Why to not use index as a key:
+https://vue-3djhxq.stackblitz.io/
+https://vueschool.io/articles/vuejs-tutorials/tips-and-gotchas-for-using-key-with-v-for-in-vue-js-3/
+
+https://css-tricks.com/protecting-vue-routes-with-navigation-guards/
+
+https://www.digitalocean.com/community/tutorials/vuejs-vue-router-modify-head
+
+accessibility: 
+https://www.youtube.com/watch?v=Vx1vSd5uYS8
+
+https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts
+
+https://egghead.io/lessons/aria-headings-and-semantic-structure-for-accessible-web-pages
+
+https://egghead.io/courses/start-building-accessible-web-applications-today
+
+
+
+Heartiest thanks respected ma'am 🙏😇! Always wishful of your blessings😊
+
+Heartiest thanks for your kind wishes respected chacha ji😊! Will always be wishful 
+of your blessings!🙏😊💐
+
+https://javascript.info/import-export
+
+https://www.section.io/engineering-education/javascript-canvas-piechart/
+
+https://www.packt.com/creating-graphs-and-charts/
+
+https://www.koderhq.com/tutorial/vue/local-json/#get
+
+https://stackoverflow.com/questions/29368138/outlining-and-partially-filling-an-svg-shape
+
+https://dmitripavlutin.com/
+https://dmitripavlutin.com/javascript-object-destructuring/
+
+https://www.kirupa.com/html5/making_http_requests_js.htm
+
+https://openweathermap.org/current
+
+https://ipinfo.io/json
+
+https://www.freecodecamp.org/news/javascript-libraries-and-apis-e9d674dc5690/
+
+https://www.freecodecamp.org/learn/front-end-development-libraries/
+
+https://9elements.com/blog/gradient-angles-in-css/
+
+https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/
+
+https://codepen.io/enbee81/pen/zYrXVGo
+
+https://12daysofweb.dev/2021/css-
+animation/
+
+https://www.hongkiat.com/blog/css-margin-auto/
+
+Jen Simmons | Layout All Day
+https://labs.jensimmons.com/2017/workshop/
+https://codepen.io/jensimmons/pen/ryGwXO
